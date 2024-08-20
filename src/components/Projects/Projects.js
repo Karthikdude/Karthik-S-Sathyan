@@ -69,9 +69,9 @@ function Projects() {
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Simple Password Manager"
-              description="A simple command-line password manager written in Python. This tool allows users to create accounts and securely manage their passwords using SHA-256 hashing. User data is stored in a local file, with basic functionality for account creation and login."
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
+              title="Metadata Extractor"
+              description="Metadata Extractor is a Flask app that lets users upload images and view detailed metadata, including file info, dimensions, and EXIF data like camera make and GPS coordinates.."
+              ghLink="https://github.com/Karthikdude/MetaData-Extractor"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
